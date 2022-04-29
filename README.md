@@ -89,7 +89,8 @@
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
-- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
+- Github nos permite trabajar en equipo, donde varios desarrolladores trabajen al mismo tiempo y de forma paralela en un
+proyecto
 <br><br></td></tr>
 </tbody>
 </table>
