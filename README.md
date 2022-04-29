@@ -89,7 +89,7 @@
 Aquí
 <br><br></td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
-<---
+- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
 <br><br></td></tr>
 </tbody>
 </table>
@@ -102,7 +102,7 @@ Aquí
 </theader>
 <tbody>
 	<td>
-	-
+	- 
 	</td>
 </tbody>
 </table>
