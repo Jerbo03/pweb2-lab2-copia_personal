@@ -93,6 +93,10 @@
 proyecto, tambien nos permite visualizar quien ha realizado los cambios y cuando los ha realizado.<br>
 - Githut tambien nos da la ventaja de trabajar sin estar conectado a la red donde cada desarrollador puede trabajar o 
 enviar cambios sin nesecidad de estar conectado dado a que se trabaja con un repositorio local.<br>
+- Github nos ayuda a la detección de fallos, a disminuir errores humanos, al seguimiento por etapas  cerca del proyecto, 
+al mantenimiento de diferentes entornos, etc.<br>
+-Podemos decir que dejar tus proyectos como repositorios en Github, es una decisión altamente eficiente, en el caso de los repositorios públicos, porque te beneficiarás de los conocimientos de otros programadores, y en el caso de los privados, se dispone de un sistema de gestión de proyectos que hará que el trabajo en equipo sea mucho más rápido.<br>  
+
 <br><br></td></tr>
 </tbody>
 </table>
