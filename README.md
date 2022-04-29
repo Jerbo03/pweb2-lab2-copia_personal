@@ -89,11 +89,10 @@
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
-<br>- Github nos permite trabajar en equipo, donde varios desarrolladores trabajen al mismo tiempo y de forma paralela en un
-proyecto, tambien nos permite visualizar quien ha realizado los cambios y cuando los ha realizado.
+- Github nos permite trabajar en equipo, donde varios desarrolladores trabajen al mismo tiempo y de forma paralela en un
+proyecto, tambien nos permite visualizar quien ha realizado los cambios y cuando los ha realizado.<br>
 - Githut tambien nos da la ventaja de trabajar sin estar conectado a la red donde cada desarrollador puede trabajar o 
-enviar cambios sin nesecidad de estar conectado dado a que se trabaja con un repositorio local.
-<br>
+enviar cambios sin nesecidad de estar conectado dado a que se trabaja con un repositorio local.<br>
 <br><br></td></tr>
 </tbody>
 </table>
