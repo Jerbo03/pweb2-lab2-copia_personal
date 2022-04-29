@@ -56,7 +56,7 @@
 					<ul>
 					<li>Daniel Edwad Tapia Saenz</li>
 					<li>Michael Benjamin Suclle Suca</li>
-					<li><a href="https://github.com/Jerbo03">André Paredes</a></li>
+					<li><a href="https://github.com/Jerbo03">José André Paredes Quispe</a></li>
 					<li>Valery Cielo Iquise Mamani</li>
 					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
 					</ul>
