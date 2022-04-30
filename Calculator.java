@@ -1,6 +1,6 @@
 class Calculator {
     int add(int a, int b){//Daniel Tapia
-        return 0;
+        return a + b;
     }
     int sub(int a, int b){ return 0; }
     int mul(int a, int b){ return 0; }
