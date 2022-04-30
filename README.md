@@ -122,7 +122,8 @@ al mantenimiento de diferentes entornos, etc.<br>
 </theader>
 <tbody>
 	<td>
-	- https://abi.gitbook.io/net-core/tu-primer-aplicacion/integrando-tu-codigo-fuente-a-github/3.10.1-creando-ramas-en-github
+	- 
+	- De SiteGround, W. H. (2017). Preguntas frecuentes sobre alojamiento web. ES. Geraadpleegd op 30 april 2022, van https://www.siteground.es/kb/comandos-git-mas-usados/?gclid=Cj0KCQjwma6TBhDIARIsAOKuANzTcXL7t6wmbftF_UQsFB0tP0sYs55nfCwHg36mocAYRD57j9lZxVkaAlWNEALw_wcB
 	</td>
 </tbody>
 </table>
