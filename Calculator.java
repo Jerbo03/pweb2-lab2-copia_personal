@@ -1,7 +1,7 @@
 class Calculator {
     int add(int a, int b){ return 0; }
     int sub(int a, int b){ return 0; }
-    int mul(int a, int b){
+    int mul(int a, int b){ //Valery Iquise
          return a * b; 
         }
     int div(int a, int b){ return 0; }
