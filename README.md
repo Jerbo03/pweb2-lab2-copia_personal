@@ -84,7 +84,9 @@
 
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
 - Ejercicio individual Mario Franco Chura Puma<br>
-	Link de mi repositorio :<a href="https://github.com/Mario-Chura/Mi-Primer-Proyecto.git">https://github.com/Mario-Chura/Mi-Primer-Proyecto.git</a>
+- Link de mi repositorio : <a href="https://github.com/Mario-Chura/Mi-Primer-Proyecto.git"> https://github.com/Mario-Chura/Mi-Primer-Proyecto.git</a><br>
+- Commits realizados<br>	
+	<img src="https://i.ibb.co/DWcwThf/commit.jpg" alt="">
 <br><br></td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
