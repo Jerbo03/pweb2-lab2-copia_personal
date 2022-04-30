@@ -1,4 +1,5 @@
 <div align="center">
+<<<<<<< HEAD
 <table>
     <theader>
         <tr>
@@ -23,6 +24,8 @@
 <span>(Formato estudiante)</span>
 </div>
 <div align="center">
+=======
+>>>>>>> origin/AndreParedes
 	<span style="font-weight:bold;">INFORME DE LABORATORIO</span>
 
 <table>
@@ -47,25 +50,39 @@
 			</tr>
 			<tr>
 				<td>FECHA DE PRESENTACIÓN::</td>
+<<<<<<< HEAD
 				<td>29-Abr-2022</td>
 				<td>HORA DE PRESENTACIÓN:</td>
 				<td> 11:55 pm.</td>
+=======
+				<td>28-Abr-2022</td>
+				<td>HORA DE PRESENTACIÓN:</td>
+				<td> 20:00</td>
+>>>>>>> origin/AndreParedes
 			</tr>
 			<tr>
 				<td colspan="3">INTEGRANTES:
 					<ul>
+<<<<<<< HEAD
 					<li>Daniel Edwad Tapia Saenz</li>
 					<li>Michael Benjamin Suclle Suca</li>
 					<li><a href="https://github.com/Jerbo03">José André Paredes Quispe</a></li>
 					<li>Valery Cielo Iquise Mamani</li>
 					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
+=======
+					<li><a href="https://github.com/Jerbo03">José André Paredes Quispe</a></li>
+>>>>>>> origin/AndreParedes
 					</ul>
 				</td>
 				<td colspan="">NOTA:</td>
 				<td></td>
 			</tr>
 			<tr>
+<<<<<<< HEAD
 				<td colspan="6">DOCENTE:
+=======
+				<td colspan="6">DOCENTE(s):
+>>>>>>> origin/AndreParedes
 					<ul>
 					<li>Richart Smith Escobedo Quispe (<a href="rescobedoq@unsa.edu.pe">rescobedoq@unsa.edu.pe</a>)</li>
 					</ul>
@@ -109,7 +126,11 @@ al mantenimiento de diferentes entornos, etc.<br>
 </theader>
 <tbody>
 	<td>
+<<<<<<< HEAD
 	- 
+=======
+	-
+>>>>>>> origin/AndreParedes
 	</td>
 </tbody>
 </table>
@@ -122,8 +143,16 @@ al mantenimiento de diferentes entornos, etc.<br>
 </theader>
 <tbody>
 	<td>
+<<<<<<< HEAD
 	- https://abi.gitbook.io/net-core/tu-primer-aplicacion/integrando-tu-codigo-fuente-a-github/3.10.1-creando-ramas-en-github
 	</td>
 </tbody>
 </table>
 </div>
+=======
+	-
+	</td>
+</tbody>
+</table>
+</div>
+>>>>>>> origin/AndreParedes
